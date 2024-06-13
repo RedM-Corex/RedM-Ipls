@@ -3,4 +3,4 @@
 
 
 ## Script owner
-- https://github.com/Rexshack-RedM/redm-ipls/blob/main/fxmanifest.lua
+- https://github.com/Rexshack-RedM/redm-ipls
